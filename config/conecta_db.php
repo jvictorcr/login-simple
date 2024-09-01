@@ -2,9 +2,9 @@
 
 // Define as constantes para conexão com o banco de dados
 define('DB_HOST', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'Melancia@13?');
-define('DB_NAME', 'jhon');
+define('DB_USERNAME', '***');
+define('DB_PASSWORD', '***');
+define('DB_NAME', '***');
 
 // Realiza a conexão com o banco de dados
 try {
